@@ -1,0 +1,23 @@
+.picture{
+    background-color:red;
+    width: 70px;
+    height: 70px;;
+    border-radius: 20%;
+    
+}
+.buttons{
+   background-color:white;
+   border-radius: 20%;
+   float: right;
+   margin-bottom: 50px;
+   margin-right: 30%;
+   font-size: large;
+ /*padding: 10px;*/
+ text-align: right;
+}
+#navbar{
+    background-color:black;
+    border-radius: 20px;
+     /*margin-right: 50px;*/
+     padding: 20px;
+}
